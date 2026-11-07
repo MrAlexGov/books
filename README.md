@@ -22,7 +22,7 @@
 3. [Инструменты и рабочая среда](chapters/03-tools-and-architecture.md)
 4. [Данные, безопасность и ответственность](chapters/04-data-security-and-responsibility.md)
 
-### Часть II. Маркетинг и продажи
+### Часть II. Клиентский путь: поддержка, маркетинг и продажи
 
 5. [Интеллектуальная служба поддержки](chapters/05-intelligent-student-support.md)
 6. [ИИ в продажах онлайн-школы](chapters/06-ai-in-sales.md)
