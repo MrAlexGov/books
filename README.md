@@ -10,6 +10,7 @@
 
 ### Читать книгу
 
+- [Полная собранная рукопись по частям](manuscript/README.md)
 - [Введение](chapters/00-introduction.md)
 - [Актуальное оглавление и архитектура рукописи](research/AI_ONLINE_SCHOOL_BOOK_OUTLINE.md)
 - [Карта сценариев и практикум](research/AI_ONLINE_SCHOOL_PROCESS_PLAYBOOK.md)
