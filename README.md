@@ -89,6 +89,7 @@
 
 - [Редакторский аудит рукописи](research/EDITORIAL_AUDIT.md)
 - [Журнал технического фактчекинга](research/TECHNICAL_FACT_CHECK.md)
+- [Журнал правового фактчекинга](research/LEGAL_FACT_CHECK.md)
 - [Издательские материалы и аннотация](publication/BOOK_METADATA.md)
 - [Чек-лист выпуска](publication/RELEASE_CHECKLIST.md)
 
