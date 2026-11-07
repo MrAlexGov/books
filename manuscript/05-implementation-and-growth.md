@@ -1712,7 +1712,7 @@ TotalCost(N) = FixedCost + VariableCost(N) + StepCost(N)
 
 ## Материалы и документация
 
-- OpenAI API. Pricing: https://openai.com/api/pricing/
+- OpenAI API. Pricing: https://developers.openai.com/api/docs/pricing
 - OpenAI API. Your data: https://developers.openai.com/api/docs/guides/your-data
 - OpenAI API. Rate limits: https://developers.openai.com/api/docs/guides/rate-limits
 - GetCourse. Документация API: https://getcourse.ru/help/api
